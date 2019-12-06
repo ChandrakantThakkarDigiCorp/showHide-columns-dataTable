@@ -213,4 +213,4 @@ function updateColumnDataTable() {
 }
 ```
 
-### <a href='https://rawgit.com/ChandrakantThakkarDigiCorp/showHide-columns-dataTable/master/index.html' target='_blank'>Click Here To See Output</a>
+### <a href='https://chandrakantthakkardigicorp.github.io/showHide-columns-dataTable/index.html' target='_blank'>Click Here To See Output</a>
